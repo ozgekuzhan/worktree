@@ -6,15 +6,21 @@ Built in a 5-day sprint at the [Le Wagon Amsterdam](https://www.lewagon.com/amst
 
 ## Screenshots
 
-| Spaces | Booking a space | Dashboard |
-|---|---|---|
-| ![WorkTree spaces page](https://www.ozgekuzhan.com/img/worktree/index%20page%20worktree.jpg) | ![WorkTree booking page](https://www.ozgekuzhan.com/img/worktree/rent%20page%20%20worktree.jpg) | ![WorkTree dashboard](https://www.ozgekuzhan.com/img/worktree/dashboard%20worktree.jpg) |
+<p align="center">
+  <img src="docs/screenshots/home.png" width="240" alt="WorkTree home page with coworking spaces">
+  <img src="docs/screenshots/space.png" width="240" alt="Space details and booking form">
+  <img src="docs/screenshots/dashboard.png" width="240" alt="Owner dashboard with listed spaces">
+</p>
+<p align="center">
+  <img src="docs/screenshots/requests.png" width="240" alt="Booking requests with accept and decline actions">
+  <img src="docs/screenshots/sign-in.png" width="240" alt="Sign in page">
+</p>
 
 ## Features
 
 - **Two user roles**: every user starts as a renter and becomes an owner by listing a space.
-- **Space listings**: owners create and delete listings with photos (uploaded to Cloudinary).
-- **Booking requests**: renters pick start and end dates with a date picker; dates in the past are rejected.
+- **Space listings**: owners create and delete listings with photos (uploaded to Cloudinary), price per hour and per day, capacity and availability.
+- **Booking requests**: renters choose start and end dates; dates in the past are rejected.
 - **Approval workflow**: each booking moves through three states: pending, accepted or declined.
 - **Role-based dashboard**: owners see incoming requests for their spaces, and renters see the status of their own bookings.
 

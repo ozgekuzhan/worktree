@@ -4,6 +4,12 @@ WorkTree is a booking platform for office and coworking spaces, like Airbnb but 
 
 Built in a 5-day sprint at the [Le Wagon Amsterdam](https://www.lewagon.com/amsterdam) Full Stack Web Development bootcamp (March 2025), by a team of three.
 
+## Screenshots
+
+| Spaces | Booking a space | Dashboard |
+|---|---|---|
+| ![WorkTree spaces page](https://www.ozgekuzhan.com/img/worktree/index%20page%20worktree.jpg) | ![WorkTree booking page](https://www.ozgekuzhan.com/img/worktree/rent%20page%20%20worktree.jpg) | ![WorkTree dashboard](https://www.ozgekuzhan.com/img/worktree/dashboard%20worktree.jpg) |
+
 ## Features
 
 - **Two user roles**: every user starts as a renter and becomes an owner by listing a space.
